@@ -27,7 +27,7 @@
 **适用情况**：你的浏览器（Edge/Chrome/Firefox）**登录过 Steam 网页版**，
 且浏览器版本较旧（或使用 Firefox）。
 
-**操作**：双击 `SteamSpend.exe` → 等着 → 看结果。
+**操作**：双击 `SteamSpend.exe` → 等待结果。
 
 > **自动读取失败的原因**
 > 2024 年之后的新版 Chrome/Edge 采用了更严格的加密（v20），
